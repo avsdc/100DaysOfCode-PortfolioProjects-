@@ -1,7 +1,7 @@
-**Coffee And Wifi**
+#Coffee And Wifi
 
 
-**Description**
+##Description
 
 CoffeeAndWifi is a CRUD application created in Python, and also uses Flask and SQLAlchemy.
 The application has a SQLAlchemy database 'cafes.db'.
@@ -24,7 +24,7 @@ is used for both add and edit.
 Finally, a delete link from the cafes page when clicked, navigates to the "/delete" app.route that uses the delete
 function, and makes it possible to delete a cafe from the cafe list (Delete).
 
-**Requirements:**
+##Requirements:
 
 Using pip install, install the following:
 
