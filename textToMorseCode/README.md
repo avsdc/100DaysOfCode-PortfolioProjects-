@@ -1,14 +1,14 @@
 
-#TextToMorseCode**
+**TextToMorseCode**
 
-##History Of Morse Code:
+**History Of Morse Code:**
 
 Morse code is named after Samuel Morse, who developed a system of encoding text characters as a series of dots and dashes, for use in telecommunication. It was widely used in World War 2, and the Korean and Vietnam wars.
 
 International Morse code encodes the letters of the English alphabet from A-Z, the numbers 0-9, and some punctuation marks. Each Morse code symbol is represented by a 
 sequence of dots and dashes.
 
-###Morse Code Alphabet**
+**Morse Code Alphabet**
 This Morse code chart shows the series of dots and dashes that make up each letter of the alphabet.
 A . _
 N _ .
@@ -37,7 +37,7 @@ Y _ . _ _
 M _ _
 Z _ _ . .
 
-###Morse Code Numbers
+**Morse Code Numbers**
 1 . _ _ _ _
 6 _ . . . .
 2 . . _ _ _
@@ -50,7 +50,7 @@ Z _ _ . .
 0 _ _ _ _ _
 
 
-###Morse Code Punctuation
+**Morse Code Punctuation**
 
 Period .
 . _ . _ . _
@@ -91,7 +91,7 @@ didididahdididah
 
 
 
-###Description Of The Project:
+***Description Of The Project:***
 
 The project textToMorseCode in Python converts text to Morse Code and Morse Code to Text. The project consists of a main.py file for automatic program execution, and index.html for user-interface.
 
