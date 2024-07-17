@@ -50,48 +50,22 @@ Z _ _ . .
 0 _ _ _ _ _
 
 
-**Morse Code Punctuation**
+**Morse Code For Punctuation Marks**
 
-Period .
-. _ . _ . _
-didahdidahdidah
-Comma ,
-_ _ . . _ _
-dahdahdididahdah
-Question mark ?
-. . _ _ . .
-dididahdahdidit
-Parentheses ( )
-_ . _ _ . _
-dahdidahdahdidah
-Apostrophe '
-. _ _ _ _ .
-didahdahdahdahdit
-Semicolon ;
-_ . _ . _ .
-dahdidahdidahdit
-Colon :
-_ _ _ . . .
-dahdahdahdididit
-Quotation marks "
-. _ . . _ .
-didahdididahdit
-Hyphen -
-_ . . . . _
-dahdididididah
-Fraction bar /
-_ . . _ .
-dahdididahdit
-Error
-. . . . . . . .
-didididididididit
-Dollar sign $
-. . . _ . . _
-didididahdididah
+| Punctuation | Morse Code Representation | didah Representation |
+|:-----------:|:-------------------------:|:--------------------:|
+|  Period     |          .                |  didahdidahdidah     |
+|  Comma      |     --..--                |  dahdahdididahdah    |
+|Question mark|     . . _ _ . .           |  dididahdahdidit     |
+|Apostrophe   |    . _ _ _ _ .            |  didahdahdahdahdit   |
+|Semicolon    |    _ . _ . _ .            |  dahdidahdidahdit    |
+|Colon        |    _ _ _ . . .            |  dahdahdahdididit    |
+|Quotation    |  . _ . . _ .              |  didahdididahdit     |
+|Hyphen       |    _ . . . . _            |  dahdididididah      |
+|Exclamation  |   -.-.--                  |  dahdidahdidahdah    |
 
 
-
-***Description Of The Project:***
+**Description Of The Project**
 
 The project textToMorseCode in Python converts text to Morse Code and Morse Code to Text. The project consists of a main.py file for automatic program execution, and index.html for user-interface.
 
