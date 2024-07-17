@@ -8,7 +8,7 @@ Morse code is named after Samuel Morse, who developed a system of encoding text 
 International Morse code encodes the letters of the English alphabet from A-Z, the numbers 0-9, and some punctuation marks. Each Morse code symbol is represented by a 
 sequence of dots and dashes.
 
-<span style="color: red">I am red</span>
+
 **Morse Code Alphabet**
 This Morse code chart shows the series of dots and dashes that make up each letter of the alphabet.
 A . _
