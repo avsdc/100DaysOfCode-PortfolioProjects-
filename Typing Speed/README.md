@@ -1,7 +1,7 @@
 
- Typing Speed And Accuracy
+ **Typing Speed And Accuracy**
 
-Description:
+**Description:**
 
 Typing Speed And Accuracy is an application in Python and Tkinter. Variables counter, var1, var2,
 user_txt_wordcount, accurate_wds, are initialized to 0, variables elapsed_secs, start_time, current_time 
