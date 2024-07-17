@@ -48,7 +48,7 @@ The reset_all() function resets user_text to the string “Start typing here.”
  and accuracy_label are reset to 0.0.
 
 
-Usage:
+**Usage:**
 
 The project was created in Python 3.12 and Tkinter, and Pycharm Community edition.
 
