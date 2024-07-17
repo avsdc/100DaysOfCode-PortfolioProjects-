@@ -2,6 +2,7 @@
 
 
 **Description**
+![Screenshot (68)](https://github.com/user-attachments/assets/a16b8d92-5032-436c-9d8d-a9876e206b5c)
 
 CoffeeAndWifi is a CRUD application created in Python, and also uses Flask and SQLAlchemy.
 The application has a SQLAlchemy database 'cafes.db'.
