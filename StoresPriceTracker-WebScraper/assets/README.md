@@ -25,15 +25,15 @@ A Google form is created, and 3 questions are added to the form. These questions
 company name, product name, and price of the product. A for loop that runs 18 times, for 18 products (six for each company)
 is used. Selenium locates the areas to insert responses using find_element() and XPATH. These are the company_area, name_area,
 and price_area. Once the responses are entered, submit_btn and print_another_response_btn are clicked, so that product information
-for all 18 products is received. When this is completed, click on the Google spreadsheet icon, and inofrmation is inserted into
-the Google spreadsheet.
+for all 18 products is received. When this is completed, clicking the Google spreadsheet icon, will insert the product information
+into the spreadsheet.
 
 **Requirements:**
 Flask, BeautifulSoup, Selenium
 
 **Usage:**
 The webscraper project was created in Pycharm community Edition. Run the program in Pycharm, and first the index.html page
-will be displayed with product information for 18 products from 6 companies.
+will be displayed with product information for 18 products from 3 companies.
 Then, Selenium opens up the Google form, and automatically enters responses to the three questions (company name, product name, and price)
 for all 18 products.
 After all responses are entered, click on the icon for Google Spreadsheet, and all the responses will be entered on the spreadhseet.
