@@ -1,6 +1,6 @@
-Stores And Product Price Tracker
+**Stores And Product Price Tracker**
 
-Description:
+**Description:**
 
 This project consists of two parts. Part1 uses Beautiful Soup, and Part2 uses Selenium.
 
@@ -28,10 +28,10 @@ and price_area. Once the responses are entered, submit_btn and print_another_res
 for all 18 products is received. When this is completed, click on the Google spreadsheet icon, and inofrmation is inserted into
 the Google spreadsheet.
 
-Requirements:
+**Requirements:**
 Flask, BeautifulSoup, Selenium
 
-Usage:
+**Usage:**
 The webscraper project was created in Pycharm community Edition. Run the program in Pycharm, and first the index.html page
 will be displayed with product information for 18 products from 6 companies.
 Then, Selenium opens up the Google form, and automatically enters responses to the three questions (company name, product name, and price)
