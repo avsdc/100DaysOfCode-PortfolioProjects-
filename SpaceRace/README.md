@@ -106,3 +106,7 @@ The next plot which is a donut pie chart, indicates that of the total launches b
 The next plot which is also a donut pie chart, shows yearly launches of the superpowers, and uses the superpower_launches dataframe.
 
 The last chart also uses superpower_launches, and displays the year on the X-axis, and expenditure for launches on the Y-axis by the superpowers. Maximum expenditure is seen in 1969. This is when US launched Apollo 11, and Neil Armstrong became the first astronaut to land on the moon.
+
+**Usage:**
+
+An .ipynb file called SpaceRace1957_2024.ipynb was created in Google Drive and Google Colaboratory. The dataset used is Space_Corrected.csv. When complete, the .ipynb file can be uploaded to Github by going to File, then Save a copy in Github, and name the repository to be uploaded to Github.
