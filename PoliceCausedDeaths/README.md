@@ -26,4 +26,4 @@ year_deaths is df['year'] with value_counts(). From the Bar chart, the maximum n
 **Usage:**
 
 An .ipynb file called Police Deaths In USA was created in Google Drive and Google Colaboratory. The dataset used is police_deaths_538.csv.
-When complete, the .ipynb file can be uploaded to Github by going to File, then Save a copy in Github, name the repository to be uploaded to on Github.
+When complete, the .ipynb file can be uploaded to Github by going to File, then Save a copy in Github, name the repository to be uploaded to Github.
