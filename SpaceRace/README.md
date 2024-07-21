@@ -1,4 +1,4 @@
-Highlights Of The Space Race
+**Highlights Of The Space Race**
 
 With the end of World War II, a new conflict started between the two superpowers, the US and Soviet Union. This war known as the Cold War, effected all aspects of life in both countries, and shaped the politics of the two nations until the breakup of the Soviet Union in 1991.
 
@@ -47,7 +47,7 @@ Into the 21st century, more than 50 countries have space agencies or other gover
 
 
 
-                 Correlation Of Plots And Charts With Space Missions
+                 **Correlation Of Plots And Charts With Space Missions**
 
 The dataset SpaceCorrected.csv was used for this project. It had 4324 rows, and 7 columns. 
 
