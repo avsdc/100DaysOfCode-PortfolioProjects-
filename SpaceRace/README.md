@@ -47,7 +47,7 @@ Into the 21st century, more than 50 countries have space agencies or other gover
 
 
 
-                 **Correlation Of Plots And Charts With Space Missions**
+**Correlation Of Plots And Charts With Space Missions**
 
 The dataset SpaceCorrected.csv was used for this project. It had 4324 rows, and 7 columns. 
 
